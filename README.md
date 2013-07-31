@@ -1,4 +1,0 @@
-TicTac
-======
-
-tictactoe
